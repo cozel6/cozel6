@@ -19,7 +19,7 @@ namespace CosminPopovici
         ----
           
         // 🛠️ Tech Stack and Tools
-        Console.WriteLine("Frontend: React, HTML, CSS, JavaScript", Java);
+        Console.WriteLine("Frontend: React, HTML, CSS, JavaScript", "Java");
         Console.WriteLine("Backend: C#, .NET");
         Console.WriteLine("Other Technologies: Git, SQL, Python");
         Console.WriteLine("What I'm learning now: Exploring C++ and applying its concepts in practical projects.");
