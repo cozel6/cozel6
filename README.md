@@ -19,10 +19,10 @@ namespace CosminPopovici
         ----
           
         // 🛠️ Tech Stack and Tools
-        Console.WriteLine("Frontend: React, HTML, CSS, JavaScript");
+        Console.WriteLine("Frontend: React, HTML, CSS, JavaScript", Java);
         Console.WriteLine("Backend: C#, .NET");
         Console.WriteLine("Other Technologies: Git, SQL, Python");
-        Console.WriteLine("What I'm learning now: Exploring Java and applying its concepts in practical projects.");
+        Console.WriteLine("What I'm learning now: Exploring C++ and applying its concepts in practical projects.");
 
         ---
 
@@ -34,7 +34,6 @@ namespace CosminPopovici
 
         // 🌍 Find Me On
         Console.WriteLine("🌐 LinkedIn: https://www.linkedin.com/in/popovici-cosmin-6a6177251/");
-        Console.WriteLine("📧 Email: popovicicosmin50@gmail.com");
                   
         ---
                   
